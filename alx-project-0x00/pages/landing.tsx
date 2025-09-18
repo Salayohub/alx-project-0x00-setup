@@ -17,7 +17,7 @@ const Landing: React.FC =  () => {
       {/* Shapes */}
       <Button title="rounded Small" style="rounded-sm" />
       <Button title="rounded Medium" style="rounded-md" />
-      <Button title="rounded Full" style="rounded-lg" />
+      <Button title="rounded lg" style="rounded-full" />
     </div>
 
 
